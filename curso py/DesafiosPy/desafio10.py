@@ -1,4 +1,4 @@
-expressão = input("Digite a sequnecia de parenteses a validar:")
+expressão = input("Digite a sequência de parenteses a validar:")
 x = 0
 pilha = []
 while x < len(expressão):
